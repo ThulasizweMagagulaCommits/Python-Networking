@@ -1,4 +1,10 @@
-#De-authenticating a client connected to an access point
+"""
+De-authenticating a client connected to an access point - Junior Python Developer Portfolio
+Author: Thulasizwe Magagula
+Purpose: Penetration Testing - De-authenticating a client connected to an access point
+Demonstrates working with scapy library, Layer 2 packet framing
+"""
+#
 from scapy.all import *
 import sys
 

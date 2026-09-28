@@ -1,3 +1,9 @@
+"""
+Wireless 802.11 client discovery with Scapy - Junior Python Developer Portfolio
+Author: Thulasizwe Magagula
+Purpose: Penetration Testing - Wireless Access Point Client Identification
+Demonstrates working with scapy module, utilizating wireless monitoring mode on Linux
+"""
 from scapy.all import *
 interface ='mon0'
 probe_req = []

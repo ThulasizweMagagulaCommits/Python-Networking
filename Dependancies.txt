@@ -2,7 +2,6 @@
 # Python 
 # Scapy
 # python nmap
-# beautifulsoup4
 # requests
 # Socket
-# Threads
+# Threading

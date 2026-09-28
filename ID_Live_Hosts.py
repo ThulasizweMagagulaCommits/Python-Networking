@@ -1,4 +1,9 @@
-#Identifying hosts connected to the network
+"""
+Wireless 802.11 client discovery with Scapy - Junior Python Developer Portfolio
+Author: Thulasizwe Magagula
+Purpose: Penetration Testing - Identifying hosts connected to the network
+Demonstrates working with scapy module, utilizating wireless monitoring mode on Linux
+"""
 import socket 
 from datetime import datetime
 net= input("Enter the IP address ")

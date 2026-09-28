@@ -1,0 +1,6 @@
+# Requirements
+# Python 
+# Scapy
+# python nmap
+# beautifulsoup4
+# requests

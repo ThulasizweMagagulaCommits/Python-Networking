@@ -1,3 +1,4 @@
+#Identifying hosts connected to the network
 import socket 
 from datetime import datetime
 net= input("Enter the IP address ")

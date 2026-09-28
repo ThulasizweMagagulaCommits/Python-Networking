@@ -1,4 +1,4 @@
-# Python-Networking
+# Python Network Scanner
 # Author: Thulasizwe Magagula
 # IT Sytems Engineer and Software Development Specialist
 

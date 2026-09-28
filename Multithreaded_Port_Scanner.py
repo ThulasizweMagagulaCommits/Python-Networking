@@ -1,3 +1,4 @@
+#Scanning a host for open ports/services
 import threading
 import time
 import socket, subprocess,sys

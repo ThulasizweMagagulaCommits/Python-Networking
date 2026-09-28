@@ -1,4 +1,9 @@
-#Scanning a host for open ports/services
+"""
+Network host probing for open ports/services - Junior Python Developer Portfolio
+Author: Thulasizwe Magagula
+Purpose: Penetration Testing - Scanning a host for open ports/services
+Demonstrates working with socket module, process efficiency using multithreading to get more done, utilizating system datetime to track operation speed, create offline datafiles
+"""
 import threading
 import time
 import socket, subprocess,sys
